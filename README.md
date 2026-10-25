@@ -28,6 +28,9 @@ My product code is private (the products are sold); these pages show what they d
 | [Telegram → MT5 trade copier](https://eprahem-yhya.github.io/trading-copier/) | Reads a signal channel, sizes each trade from risk, opens and manages it on MetaTrader 5 |
 | [Control panel preview](https://eprahem-yhya.github.io/observatory/) | Read-only preview of that system's dashboard (generated data) |
 | [LadderGuard](https://eprahem-yhya.github.io/ladderguard/) | MQL5 Expert Advisor: partial closes, break-even, ladder stop, daily-loss / drawdown / trades-per-day guard |
+| [NewsGuard](https://eprahem-yhya.github.io/newsguard/) | MQL5 Expert Advisor: reads the MT5 economic calendar and, around important events, warns, moves stops to break-even or closes positions |
+| [RiskPanel](https://eprahem-yhya.github.io/riskpanel/) | MT5 panel: lot size from your risk and stop, hard risk cap, margin check, one-click BUY / SELL |
+| [GoldSessions](https://eprahem-yhya.github.io/goldsessions/) | MT5 indicator: Asian, London and New York session boxes with each session's high and low |
 | [Signal channel audit](https://eprahem-yhya.github.io/channel-audit/) | Every call of a Telegram channel replayed on minute prices, weekly P/L at 0.01 lot, a verdict |
 | [QR menu & table ordering](https://eprahem-yhya.github.io/qr-menu-showcase/) | Offline Android / Windows ordering system sold to restaurants |
 | [AMBER](https://eprahem-yhya.github.io/amber-cafe/) · [MAISON NOOR](https://eprahem-yhya.github.io/maison-noor/) | Two bilingual Three.js web demos |
